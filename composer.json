@@ -1,5 +1,5 @@
 {
-    "name": "k/auth_jwt_laravel_login",
+    "name": "kauth_jwt/laravel_login",
     "description": "simple login",
     "type": "library",
     "autoload": {
