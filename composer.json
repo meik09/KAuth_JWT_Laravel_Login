@@ -1,0 +1,20 @@
+{
+    "name": "k/auth_jwt_laravel_login",
+    "description": "simple login",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Simple\\AuthJwtLaravelLogin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KiemNV",
+            "email": "kiemnv@kaiyouit.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "laravel/framework": "^8.54"
+    }
+}
